@@ -1,0 +1,10 @@
+# Affects the easing speed, that is applied to the rotation of the floating item.
+floatingItemEasingSpeed: 0.75
+# Affects the rotation amplitude of the floating item.
+floatingItemRotationAmplitude: 1.0
+# Affects the speed of the hotbar selector.
+hotbarSelectorSpeed: 3.0
+# Affects the size of the hovered item.
+hoveredItemScale: 1.4
+# Affects the hover amplitude of items, that match to the item that is carried in the cursor.
+matchingItemHoverAmplitude: 0.8
